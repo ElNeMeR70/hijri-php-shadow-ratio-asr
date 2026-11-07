@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hijri-php-shadow-ratio-asr",
+  "description": "Gnomon Shadow Ratio Solver for Shafi'i/Maliki/Hanbali (1x) vs Hanafi (2x) Asr (حاسبة طول الظل ومقياس العصر الشافعي والحنفي)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
